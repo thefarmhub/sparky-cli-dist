@@ -1,6 +1,8 @@
 # Sparky CLI [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org) 
 
-Sparky is a faithful data dog that runs everywhere collecting sensor data delivers it to the Aquaponics AI cloud.
+Sparky is a faithful data dog that runs everywhere collecting sensor data delivers it to the Aquaponics AI cloud.  For full documentation please check out the [developer docs](https://docs.aquaponics.ai).
+
+![Sparky Demo](/images/sparky-demo.gif)
 
 ### Installing with Homebrew
 
