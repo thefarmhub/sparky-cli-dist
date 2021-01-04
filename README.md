@@ -2,7 +2,7 @@
 
 Sparky is a faithful data dog that runs everywhere collecting sensor data delivers it to the Aquaponics AI cloud.  For full documentation please check out the [developer docs](https://docs.aquaponics.ai).
 
-![Sparky Demo](/images/sparky-demo.gif)
+![Sparky Demo](images/sparky-demo.gif?raw=true)
 
 ### Installing with Homebrew
 
