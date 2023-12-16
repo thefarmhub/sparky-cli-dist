@@ -9,7 +9,7 @@ Sparky is a faithful data dog that runs everywhere collecting sensor data delive
 If you're on Mac or using some other homebrew enabled device you can install the application using our [homebrew](https://brew.sh/) tap.
 
 ```sh
-brew tap aquaponics-ai/homebrew-tap
+brew tap thefarmhub/homebrew-tap
 brew install sparky
 ```
 
@@ -18,7 +18,7 @@ brew install sparky
 If you're on a Windows machine and use a package manager like [Scoop](https://github.com/lukesampson/scoop) we've got you covered.
 
 ```sh
-scoop bucket add stripe https://github.com/aquaponics-ai/scoop-sparky-cli.git
+scoop bucket add stripe https://github.com/thefarmhub/scoop-sparky-cli.git
 scoop install sparky
 ```
 
