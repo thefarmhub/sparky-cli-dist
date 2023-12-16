@@ -1,6 +1,6 @@
 # Sparky CLI [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org) 
 
-Sparky is a faithful data dog that runs everywhere collecting sensor data delivers it to the Aquaponics AI cloud.  For full documentation please check out the [developer docs](https://docs.aquaponics.ai).
+Sparky is a faithful data dog that runs everywhere collecting sensor data delivers it to the FarmHub cloud.  For full documentation please check out the [developer docs](https://docs.farmhub.ag).
 
 ![Sparky Demo](images/sparky-demo.gif?raw=true)
 
@@ -33,4 +33,4 @@ sparky [command]
 sparky [command] help
 ```
 
-Created with ❤️ by [Aquaponics AI](https://aquaponics.ai/?ref=github.com)
+Created with ❤️ by [FarmHub](https://farmhub.ag/?ref=github.com)
